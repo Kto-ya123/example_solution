@@ -1,0 +1,9 @@
+﻿  Source.cpp
+f:\visual studio project\projects\project5\project5\source.cpp(39): warning C4099: Culc: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+  f:\visual studio project\projects\project5\project5\source.cpp(38): note:  см. объявление "Culc"
+f:\visual studio project\projects\project5\project5\source.cpp(132): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\project5\project5\source.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\project5\project5\source.cpp(143): warning C4018: <: несоответствие типов со знаком и без знака
+f:\visual studio project\projects\project5\project5\source.cpp(168): warning C4715: Culc::rez: значение возвращается не при всех путях выполнения
+  project5.vcxproj -> F:\Visual Studio Project\Projects\project5\Debug\project5.exe
+  project5.vcxproj -> F:\Visual Studio Project\Projects\project5\Debug\project5.pdb (Partial PDB)
